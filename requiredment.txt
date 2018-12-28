@@ -1,0 +1,9 @@
+pip install:
+
+flask-script
+pymysql
+flask-blueprint
+SQLAlchemy
+flask_sqlalchemy
+Pillow
+flask_wtf
